@@ -1,0 +1,20 @@
+                          CodeGlyph Project
+
+What is it?
+-----------
+It is a compendium of programming constructs in different languages to be used
+to compare the languages and make fast switching programming between them.
+
+Sections
+---------
+For each type of basics constructs a project directory is created. They are
+constructed in concept dependency succession.
+Please refer to the READMEs located on each project directory for mas info
+
+Licensing
+---------
+Please see the file called LICENSE
+
+Authors
+-------
+topo@skull-coding-krew.org

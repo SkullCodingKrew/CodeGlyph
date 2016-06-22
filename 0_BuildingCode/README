@@ -1,0 +1,31 @@
+
+                          0.BuildingCode
+What is it?
+-----------
+This is the first chapter of the CodeGlyph.
+It is dedicated to the most essential part of the programming languages, that is
+building(when needed) and executing the code.
+Points covered:
+    - Language typical build tools (make,maven,gradle...)
+    - Compilers and parsers (gcc, javac, perl,...)
+    - Minimal program to be able to create an "executable"
+
+Licensing
+---------
+Please see the file called LICENSE
+
+Authors
+-------
+topo@skull-coding-krew.org
+
+Execution
+----------
+Checking which tools and compilers/interpreters are available
+> check_compilers.sh
+
+C/C++ (with make)
+> make main
+
+More documentation
+------------------
+> doxygen doc/doxyfile (also make doc)
