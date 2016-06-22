@@ -1,0 +1,23 @@
+                          1. Comments
+What is it?
+-----------
+This is the second chapter of the CodeGlyph.
+It is dedicated to documentation within the code with the use of comments
+Points covered:
+    - Language comments
+    - Special language documentation constructs (javadoc,perldoc,...)
+    - Doxygen documentation
+
+Authors
+-------
+topo@skull-coding-krew.org
+
+Execution
+----------
+C/C++ (with make)
+> make main
+> target/C++/main.exe
+
+More documentation
+------------------
+> doxygen doc/doxyfile (also make doc)

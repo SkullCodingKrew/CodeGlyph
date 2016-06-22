@@ -1,0 +1,24 @@
+                          2. TerminalOutput
+What is it?
+-----------
+This is the third chapter of the CodeGlyph.
+It is dedicated to the terminal output, the first visible way to interact with
+programs
+Points covered:
+    - Hello World!
+    - Alternative ways to output to terminal
+    - Formatted output if available (printf)
+
+Authors
+-------
+topo@skull-coding-krew.org
+
+Execution
+----------
+C/C++ (with make)
+> make main
+> target/C++/main.exe
+
+More documentation
+------------------
+> doxygen doc/doxyfile (also make doc)

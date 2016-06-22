@@ -3,6 +3,7 @@
  * @brief File describing basic comments on C++(C)
  * @date Jun 3, 2016
  * @author topo@skull-coding-krew.org
+ * TODO: Add more comments types (Q-Style,...)
  */
 
 // This is an example of a one line comment
